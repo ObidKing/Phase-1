@@ -6,3 +6,6 @@ a = "this is home"
 b = "learn llm"
 c = "cuda what"
 print(a,b,c, sep='\n')
+
+#menu
+
